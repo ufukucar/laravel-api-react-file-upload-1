@@ -1,0 +1,8 @@
+{
+    "users": [
+        {"id" : 1, "name": "Ufuk Uçar", "age": 33,  "profilImage": "https://images.unsplash.com/photo-1542103749-8ef59b94f47e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+        {"id" : 2, "name": "Hikmet Yılmaz", "age": 32, "profilImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ZQenjWrNikVn3wkhc44bR7_y9pZMh8P5esWAf4wvQI2jvcJY2Ocihq0qBqS10OSG4O8&usqp=CAU"},
+        {"id" : 3, "name": "Zafer Yiğt", "age": 34, "profilImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6kZxwrMsFRpxtAFJ717yBwCg_Aa2KmKEYKkTnOm2ywKkN5JiD-jpjM3dAmmL84KqHNFE&usqp=CAU"},
+        {"id" : 4, "name": "Buğra Pekuysal", "age": 33, "profilImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZsQbpkEzdocJXLGraqjF7Qd8wtfiYV_hwA&usqp=CAU"}
+    ]
+}
